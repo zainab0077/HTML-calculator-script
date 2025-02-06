@@ -5,8 +5,11 @@ This is a basic calculator built using HTML, CSS, and JavaScript. It allows user
 
 # Features:
 ✅ User-friendly interface
+
 ✅ Supports basic arithmetic operations (+, -, *, /)
+
 ✅ Responsive design, works on all devices
+
 ✅ Instant calculation without page reload
 
 
